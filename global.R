@@ -1,5 +1,3 @@
-#Global file for Iris Multiclassification Shiny app, STAT6969 HW9
-
 # In the global file load up the model and prepare a function for generating a prediction table
 
 #import necessary libraries
